@@ -1,0 +1,14 @@
+Package: IRME
+Type: Package
+Title: Iterative Regression Method for Estimating Polyserial and Polychoric Correlations
+Version: 0.1.0
+Author: c(
+        person("Peng", "Zhang", role = c("aut"), email = "pz@zju.edu.cn"),
+        person("Jingjing", "Pan", role = c("aut", "cre"), email = "panjj1125@outlook.com")
+    )
+Maintainer: Jingjing Pan <panjj1125@outlook.com>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true
